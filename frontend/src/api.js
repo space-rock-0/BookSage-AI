@@ -1,4 +1,5 @@
-const configuredApiUrl = import.meta.env.VITE_API_URL || '';
+const configuredApiUrl = import.meta.env.VITE_API_URL
+    || 'https://booksage-ai-api.onrender.com';
 const API_BASE_URL = configuredApiUrl && configuredApiUrl.startsWith('http')
     ? configuredApiUrl
     : configuredApiUrl
