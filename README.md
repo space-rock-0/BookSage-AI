@@ -38,7 +38,7 @@ Under the hood, BookSage AI is a decoupled system — a **FastAPI** JSON API ser
 
 ## **Live Demo**
 
-**Try the Hybrid Book Recommendation System live:** [https://booksage-ai.onrender.com/](https://booksage-ai.onrender.com/)
+**Try the Hybrid Book Recommendation System live:** [https://booksage-ai.onrender.com/](https://booksage-ai-web.onrender.com/)
 
 ---
 
